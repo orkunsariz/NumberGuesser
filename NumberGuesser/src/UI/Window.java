@@ -16,8 +16,6 @@ import java.awt.event.MouseMotionListener;
 import java.awt.event.WindowEvent;
 import java.util.ArrayList;
 import javax.swing.JFrame;
-import org.omg.IOP.ENCODING_CDR_ENCAPS;
-import UI.Canvas.RenderCallback;
 
 public class Window extends JFrame implements MouseListener, MouseMotionListener {
 	
