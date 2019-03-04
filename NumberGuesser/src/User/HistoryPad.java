@@ -82,7 +82,7 @@ public class HistoryPad extends Pad {
 		
 		((Graphics2D) g).setStroke(new BasicStroke(2));
 		g.setColor(new Color(160, 160, 160));
-		g.drawRect(super.pos_x, super.pos_y+7, 150, 230);
+		g.drawRect(super.pos_x, super.pos_y+7, 150, 220);
 		
 		g.fillRect(super.pos_x-1, super.pos_y-20, 150+2, 25);
 		
