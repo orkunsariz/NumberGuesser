@@ -2,6 +2,9 @@
 ## What is it ?
 This is a "four digit number guessing game" that is played between an artificial intelligence and a user. </br>The user and AI chooses a random four digit number and receives a guess every turn. At the end of every turn who receives the guess gives the guesser a hint about the number. If the n digits are in correct place and m digits are in wrong place but exists in the sequence it hints the opponent with a string like +n-m.
 
+## JAR
+[DOWNLOAD](https://github.com/orkunsariz/NumberGuesser/blob/master/ng.jar)
+
 ## Compile and Run
 - Install Java 9
   - On Windows, install the latest JRE 9 from Oracle. Previous versions of Java are not supported.
